@@ -1,5 +1,5 @@
 {
-    "name": "tzk/taiga-php",
+    "name": "freelock/taiga-php",
     "description": "A PHP wrapper for the Taiga.io API",
     "license": "MIT",
     "require": {
@@ -14,7 +14,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-          "TZK\\Taiga\\": "src/"
+          "Freelock\\Taiga\\": "src/"
         }
     },
     "suggest": {
